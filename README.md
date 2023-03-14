@@ -117,10 +117,4 @@ Both techniques are used to ensure correct program execution and avoid hazards t
 
 We gave the processor model a series of different instructions to check it's functionality and robustness. For example below is a set of instructions given and the result obtained:
 
-<img width="566" alt="image" src="https://user-images.githubusercontent.com/94699627/223931144-c12b11ce-03cc-460a-aad3-fcd5e45f2072.png">
-
-<img width="604" alt="image" src="https://user-images.githubusercontent.com/94699627/223931206-04156a7d-5838-41ce-b9cd-55314706afba.png">
-
-![image](https://user-images.githubusercontent.com/94699627/223931259-57cf4c47-d03d-4673-afe7-271f83a03547.png)
-
-![image](https://user-images.githubusercontent.com/94699627/223931303-7fe56bb1-3509-41aa-9a6b-62eef39f3f30.png)
+`under progress`
